@@ -15,4 +15,4 @@ class Solution:
 
             right = right+1
 
-        return maxp
+        return max
